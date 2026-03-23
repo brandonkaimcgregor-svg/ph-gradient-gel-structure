@@ -1,5 +1,9 @@
 # pH-Gradient-Gel-Structural-Response-Test
 
+## Key Hypothesis
+
+This system tests whether structural changes can propagate across a buffered region **without direct contact**, which cannot be explained by standard diffusion models.
+
 Overview
 
 This repository provides a minimal, low-cost experimental framework to test structural response and propagation in gel systems under pH gradients.

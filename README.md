@@ -1,5 +1,11 @@
 # pH-Gradient-Gel-Structural-Response-Test
 
+## What This Tests (Key Difference)
+
+Most gradient gel studies focus on how gradients are formed or controlled.
+
+This system instead tests whether structural influence can propagate across a buffered region **without direct contact**, which is not addressed in standard gradient hydrogel models.
+
 ## Key Hypothesis
 
 This system tests whether structural changes can propagate across a buffered region **without direct contact**, which cannot be explained by standard diffusion models.
